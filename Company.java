@@ -47,6 +47,7 @@ class Company
 		e1.setSalary(1000);
 		e1.setDept("sw");
 		e1.display();
+		affffffffffffffffffffffffffffffffffffffffffffffffff
 }
 }
 
