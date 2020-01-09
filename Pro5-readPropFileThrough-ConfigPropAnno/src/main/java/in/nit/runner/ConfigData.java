@@ -14,6 +14,7 @@ public class ConfigData implements CommandLineRunner {
 	private String empName;
 	private double empSal;
 	private String []proj;
+	private String mmmm;
 	//private Properties dtls;
 	@Override
 	public void run(String... args) throws Exception {
