@@ -4,7 +4,7 @@ class  Employee
 	String ename;
 	long salary;
 	String dept;
-	String dept;
+	String amt;
 
 public void setEno(int eno){
 	this.eno=eno;
