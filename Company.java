@@ -4,6 +4,9 @@ class  Employee
 	String ename;
 	long salary;
 	String dept;
+
+	srtring amt;
+
 	String amt;
 
 public void setEno(int eno){
